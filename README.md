@@ -3,8 +3,6 @@
 Unha videoconsola portátil feita por nós, e un SDK para aprender a programar
 os teus propios xogos nela.
 
-Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
-
 ![Videoconsola](hardware/carcasa/vista_fronte.png)
 
 ## Que leva
@@ -64,3 +62,7 @@ pio run -t upload
 ```
 
 Isto compila o programa da carpeta `xogo/` e gravao na consola.
+
+---
+
+Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
