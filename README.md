@@ -63,6 +63,10 @@ pio run -t upload
 
 Isto compila o programa da carpeta `xogo/` e gravao na consola.
 
+## Licenza
+
+Todo o repositorio (código, hardware e documentación) é libre, baixo a [licenza MIT](LICENSE).
+
 ---
 
 Esta actividade está patrocinada pola Xunta de Galicia e pola Axencia Para a Modernización Tecnolóxica (AMTEGA).
