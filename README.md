@@ -65,7 +65,10 @@ Isto compila o programa da carpeta `xogo/` e gravao na consola.
 
 ## Licenza
 
-Todo o repositorio (código, hardware e documentación) é libre, baixo a [licenza MIT](LICENSE).
+Este traballo está suxeito á licenza [GNU General Public License v3.0](LICENSE).
+
+Todos os ficheiros multimedia e de datos que non sexan código fonte están suxeitos á licenza
+[Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](LICENSE-CC-BY-SA-4.0.txt).
 
 ---
 
